@@ -1,0 +1,6 @@
+@StorebookApp_HostAddress = http://localhost:5108
+
+GET {{StorebookApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
